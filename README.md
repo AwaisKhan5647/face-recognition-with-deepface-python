@@ -9,9 +9,9 @@ This project compares two images and checks whether they belong to the same pers
 
 This notebook uses **DeepFace**, an open-source deep learning facial recognition framework, to perform **face verification** between two input images.
 
-- Supported Models
+
 DeepFace supports several pre-trained models for facial recognition:
-You can choose from several pre-trained models like:
+You can choose from pre-trained models like:
 - **VGG-Face** : Deep CNN model trained on large-scale face data
 - **Facenet** : Google’s face recognition model based on triplet loss
 - **OpenFace** : Lightweight open-source model for embedding generation
